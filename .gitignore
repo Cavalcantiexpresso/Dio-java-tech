@@ -20,6 +20,8 @@ target/
 *.ipr
 
 ### NetBeans ###
+/.idea/
+
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -31,3 +33,4 @@ build/
 
 ### VS Code ###
 .vscode/
+
