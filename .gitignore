@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -25,12 +26,27 @@ hs_err_pid*
 replay_pid*
 =======
 HELP.md
+=======
+>>>>>>> 1f292e2 (Crinado projeto em Aula lombok)
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+<<<<<<< HEAD
 ### STS ###
+=======
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+>>>>>>> 1f292e2 (Crinado projeto em Aula lombok)
 .apt_generated
 .classpath
 .factorypath
@@ -39,12 +55,15 @@ target/
 .springBeans
 .sts4-cache
 
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
 
+=======
+>>>>>>> 1f292e2 (Crinado projeto em Aula lombok)
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -54,9 +73,18 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+<<<<<<< HEAD
 /.history
 
 
 ### VS Code ###
 .vscode/
 >>>>>>> da4fbbd (Calculadora em Spring Boot)
+=======
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+>>>>>>> 1f292e2 (Crinado projeto em Aula lombok)
