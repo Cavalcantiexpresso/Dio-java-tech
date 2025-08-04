@@ -1,3 +1,3 @@
 # Dio-java-tech
 
-repositorio para armazenar todo código do curso Java tech
+repositório para armazenar todo código do curso Java tech
